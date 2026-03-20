@@ -6,7 +6,7 @@ Web Developer and Designer
 
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [My Portfolio](http://anjef.com.np)
-* ✉️  You can contact me at [njrnjf@gmail.com](mailto:njrnjf@gmail.com)
+* ✉️  You can contact me at [danjefff1001@gmail.com](mailto:danjefff1001@gmail.com)
 * 🧠  I'm currently learning Vue , Flutter and React Native
 * 👥  I'm looking to collaborate on Any FrontEnd Project .
 * 💬  Ask me about I'm also a Videographer and Photographer , i also play amature Footballer.
